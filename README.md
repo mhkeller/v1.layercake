@@ -1,3 +1,5 @@
+> **This is the archived v1 branch of layercake that was built with Svelte 2.x. Check out https://github.com/mhkeller/layercake for the current version**
+
 Layer Cake  [<img src="https://github.com/mhkeller/layercake-examples/raw/master/static/layercake-logo-500x400.png" width="115" align="right" alt="layercake-logo">](https://mhkeller.github.io/layercake)
 ===
 
