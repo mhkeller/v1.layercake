@@ -5,7 +5,7 @@
   "main": "src/layercake.js",
   "module": "src/layercake.js",
   "dependencies": {
-    "d3-scale": "^2.1.0"
+    "d3-scale": "^4.0.2"
   },
   "peerDependencies": {
     "svelte": "2.x"
